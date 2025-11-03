@@ -1,4 +1,5 @@
 """
+Modificado por erika para aula 04
 Desafio: Criar uma calculadora estatística simples em Python
 
 Tarefa:
