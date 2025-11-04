@@ -1,4 +1,5 @@
 """
+Teste para verificar tag
 Desafio: Criar uma calculadora estatística simples em Python
 
 Tarefa:
